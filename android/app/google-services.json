@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253650776648",
+    "project_id": "daily-motivation-app-47541",
+    "storage_bucket": "daily-motivation-app-47541.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253650776648:android:8a582c23c9ac1063f41e7d",
+        "android_client_info": {
+          "package_name": "com.example.daily_motivation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8wFgf8jTBfhOquRXd9JXcYjeWsvWRIwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
